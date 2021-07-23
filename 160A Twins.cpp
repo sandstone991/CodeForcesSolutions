@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-
+    //Azzam
     int numberOfCoins, coin, biggerShare = 0, lesserShare = 0, answer = 0;
     int freqCoin[101]{};
     int coins[100]{};
@@ -31,4 +31,3 @@ int main()
         }
     }
     cout << answer;
-}
